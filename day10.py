@@ -19,3 +19,4 @@ print('value of a is ',a)
 # typecasting is done to convert one data type to another
 
 b = int(input('this will take input as an integer: '))
+print('value of b is ',b)
